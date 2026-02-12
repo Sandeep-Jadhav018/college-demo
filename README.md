@@ -1,4 +1,4 @@
 # college-demo
 This is my first resository.
 <br>
-Author-Sandeep Jadhav
+Author-Sandeep (Jadhav)
